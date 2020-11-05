@@ -1,7 +1,7 @@
 # Low Level System Design - Multi-level Cache System 
 
 ### Problem Statement
-[Check here](problem-statment.md)
+[Check here](problem-statement.md)
 
 ### Project Requirements
 
